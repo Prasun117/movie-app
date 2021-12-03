@@ -8,6 +8,14 @@ export default function App() {
   return (
     <div className="App">
       <HeaderComponent />
+      <div className="test"></div>
+      <div className="test"></div>
+      <div className="test"></div>
+      <div className="test"></div>
+      <div className="test"></div>
+      <div className="test"></div>
+      <div className="test"></div>
+      <div className="test"></div>
       <Footer />
     </div>
   );

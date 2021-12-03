@@ -89,7 +89,7 @@ body {
 }
 
 .footer {
-  position: fixed;
+  /* position: fixed; note sticky footer testing*/
   padding-left: 2rem;
   left: 0;
   bottom: 0;
@@ -202,4 +202,9 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
+}
+.test {
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid;
 }
